@@ -1,0 +1,15 @@
+.country-card {
+  width: 50%;
+}
+
+@media only screen and (max-width:970px) {
+  .country-card {
+    width: 75%;
+  }
+}
+
+@media only screen and (max-width:575px) {
+  .country-card {
+    width: 90%;
+  }
+}
